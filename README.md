@@ -8,11 +8,11 @@
 
 **Qual problema relacionado às mudanças climáticas o projeto pretende abordar?**
 
-[O Projeto Pretende Abordar o Tema de Economia e Redução de Energia, Que Pode Nos Ajudar a Abaixar o Uso de Energia]
+[O Projeto Pretende Abordar o Tema de Economia e Redução de Energia, que Pode nos Ajudar a Abaixar o uso de Energia]
 
 **Por que você escolheu esse problema?**
 
-[Se Quiser Ajudar o Planeta, Esse Assunto é o Mais Fácil Para Começar a Fazer Isso]
+[Se Quiser Ajudar o Planeta, Esse Jeito é o Mais Fácil Para Começar a Fazer Isso]
 
 ## 🎯 Objetivos
 
